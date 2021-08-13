@@ -1,0 +1,20 @@
+.container, .carousel{
+    font-family: "Sarabun", sans-serif;
+}
+
+.box1{
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid rgb(170, 122, 233);
+    padding: 80px;
+    box-sizing: content-box;
+}
+.box2{
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid rgb(5, 12, 5);
+    padding: 80px;
+    box-sizing: content-box;
+}
